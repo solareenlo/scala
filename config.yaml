@@ -31,11 +31,8 @@ menu:
   before: []
   after:
     - name: "Github"
-      url: "https://github.com/solareenlo/"
+      url: "https://github.com/solareenlo/scala"
       weight: 20
-    - name: "Twitter"
-      url: "https://twitter.com/solareenlo/"
-      weight: 30
 
 params:
   # (Optional, default 6) Set how many table of contents levels to be showed on page.

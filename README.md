@@ -1,2 +1,2 @@
 # scala
-- https://solareenlo.com の scala のページのリポジトリ．
+https://solareenlo.com の scala のページのリポジトリ．

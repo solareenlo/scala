@@ -1,6 +1,6 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://solareenlo.com/
+baseURL: https://solareenlo.com/scala
 title: solareenlo
 # theme: book-ori
 theme: book-fork
@@ -61,7 +61,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/solareenlo/blog-hugo
+  BookRepo: https://github.com/solareenlo/scala
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.

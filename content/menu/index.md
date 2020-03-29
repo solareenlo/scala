@@ -2,8 +2,8 @@
 headless: true
 ---
 
-- [**Scala**]({{< relref "/scala" >}})
-  - [sbt]({{< relref "/scala/sbt" >}})
-  - [class]({{< relref "/scala/class" >}})
-  - [object]({{< relref "/scala/object" >}})
-  - [trait]({{< relref "/scala/trait" >}})
+- [**Scala**](https://solareenlo.com/scala)
+  - [sbt](https://solareenlo.com/scala/docs/scala/sbt)
+  - [class](https://solareenlo.com/scala/docs/scala/class)
+  - [object](https://solareenlo.com/scala/docs/scala/object)
+  - [trait](https://solareenlo.com/scala/docs/scala/trait)

@@ -1,6 +1,6 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://solareenlo.com/
+baseURL: https://solareenlo.com/scala
 title: solareenlo
 # theme: book-ori
 theme: book-fork
@@ -46,7 +46,7 @@ params:
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
-  # BookMenuBundle: /menu
+  BookMenuBundle: /menu
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu

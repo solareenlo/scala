@@ -2,8 +2,9 @@
 headless: true
 ---
 
-- [**Scala**](https://solareenlo.com/scala/docs/scala)
-  - [sbt](https://solareenlo.com/scala/docs/scala/sbt)
-  - [class](https://solareenlo.com/scala/docs/scala/class)
-  - [object](https://solareenlo.com/scala/docs/scala/object)
-  - [trait](https://solareenlo.com/scala/docs/scala/trait)
+- [**Scala**](/scala/docs/scala)
+  - [sbt](/scala/docs/scala/sbt)
+  - [class](/scala/docs/scala/class)
+  - [object](/scala/docs/scala/object)
+  - [trait](/scala/docs/scala/trait)
+  - [type parameter](/scala/docs/scala/type-parameter)

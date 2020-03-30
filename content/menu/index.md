@@ -8,3 +8,5 @@ headless: true
   - [object](/scala/docs/scala/object)
   - [trait](/scala/docs/scala/trait)
   - [type parameter](/scala/docs/scala/type-parameter)
+  - [function](/scala/docs/scala/function)
+

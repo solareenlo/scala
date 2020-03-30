@@ -15,6 +15,7 @@ title: Scala
 - WebSite: https://scala-lang.org
 
 # 解説ページ
+- [公式ドキュメント](https://docs.scala-lang.org/ja/)
 - [日本の Scala コミュニティによる解説ページ](https://scala-text.github.io/scala_text/)
 - [N 予備校による解説ページ](https://www.nnn.ed.nico/pages/programming/)
 - [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)

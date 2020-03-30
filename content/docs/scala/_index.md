@@ -17,3 +17,4 @@ title: Scala
 # 解説ページ
 - [日本の Scala コミュニティによる解説ページ](https://scala-text.github.io/scala_text/)
 - [N 予備校による解説ページ](https://www.nnn.ed.nico/pages/programming/)
+- [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)
